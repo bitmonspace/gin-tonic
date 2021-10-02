@@ -16,7 +16,7 @@ Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details on our code o
 
 ## Contributions
 Bitmon is open to contributions, but it's recommended to create an issue or to reply to a comment to let us know what you are working on first. That way we don't overwrite each other.
-Please read [CONTRIBUTIONS.md](./CONTRIBUTIONS.md) for details.
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## How to run in locally
 ```bash
